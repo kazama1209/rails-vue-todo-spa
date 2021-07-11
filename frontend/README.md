@@ -1,24 +1,16 @@
-# frontend
+# rails-vue-todo-spa-frontend
 
-## Project setup
-```
-yarn install
-```
+「rails-vue-todo-spa」のフロントエンド部分。
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## セットアップ
 
-### Compiles and minifies for production
 ```
-yarn build
+$ npm install # or $ yarn install
+$ npm run start # or $ yarn start
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+<img width="1351" alt="スクリーンショット 2021-07-12 1 20 23" src="https://user-images.githubusercontent.com/51913879/125202622-577e9600-e2af-11eb-87e1-5c1d2821b2e1.png">
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+[http://localhost/8080](http://localhost/8080) にアクセス。
+
